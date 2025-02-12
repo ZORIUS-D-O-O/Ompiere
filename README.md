@@ -15,7 +15,7 @@ Enterprise resource planning (ERP) systems are essential in today's business lan
 ---
 
 ## Purpose
-The primary purpose of iDempiere is to provide organizations with a comprehensive platform to manage their business processes, including finance, inventory, sales, purchasing, manufacturing, and customer relationships, in a unified and customizable environment.
+The primary purpose of Ompiere is to provide organizations with a comprehensive platform to manage their business processes, including finance, inventory, sales, purchasing, manufacturing, and customer relationships, in a unified and customizable environment.
 
 ## Key Features
 
@@ -25,7 +25,7 @@ The primary purpose of iDempiere is to provide organizations with a comprehensiv
 - **SCM**: Supplier management and logistics optimization.
 
 ### Modularity
-iDempiere employs a modular architecture using the OSGi framework, allowing for seamless addition and integration of plugins to extend core functionalities.
+Ompiere employs a modular architecture using the OSGi framework, allowing for seamless addition and integration of plugins to extend core functionalities.
 
 ### User Interface
 - Intuitive web-based interface.
@@ -38,10 +38,10 @@ iDempiere employs a modular architecture using the OSGi framework, allowing for 
 - **Frameworks**: OSGi for modularity and scalability.
 
 ### Community Support
-iDempiere is supported by an active global community that contributes to its continuous improvement, including plugins, documentation, and translations.
+Ompiere is supported by an active global community that contributes to its continuous improvement, including plugins, documentation, and translations.
 
 ## Applications and Use Cases
-iDempiere is suitable for various industries, including manufacturing, retail, distribution, and services. Common use cases include:
+Ompiere is suitable for various industries, including manufacturing, retail, distribution, and services. Common use cases include:
 - Automating inventory and supply chain management.
 - Tracking financial performance and generating reports.
 - Managing customer relationships and sales pipelines.
@@ -58,4 +58,4 @@ iDempiere is suitable for various industries, including manufacturing, retail, d
 - Commercial support options available through certified partners.
 
 ## Conclusion
-iDempiere stands out as a robust and adaptable ERP solution designed to meet the diverse needs of businesses worldwide. Its open-source nature, modularity, and community backing make it an ideal choice for organizations seeking to optimize their operations cost-effectively.
+Ompiere stands out as a robust and adaptable ERP solution designed to meet the diverse needs of businesses worldwide. Its open-source nature, modularity, and community backing make it an ideal choice for organizations seeking to optimize their operations cost-effectively.
