@@ -1,0 +1,7 @@
+    <!-- Ompiere -->
+    <Menu>
+      <Name>Ompiere</Name>
+      <MergeFile>idempiere.menu</MergeFile>
+    </Menu>
+    <!-- End of Ompiere -->
+
